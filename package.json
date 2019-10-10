@@ -1,0 +1,14 @@
+{
+  "name": "dada",
+  "version": "1.0.0",
+  "description": "take screenshots of website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chiranjit Nag",
+  "license": "ISC",
+  "dependencies": {
+    "node-server-screenshot": "^0.2.2"
+  }
+}
